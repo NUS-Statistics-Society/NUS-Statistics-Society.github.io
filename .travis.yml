@@ -1,10 +1,6 @@
 language: node_js
-node_js:
-  - 10
-  - 9
-  - 8
-  - 7
-  - 6
+node_js: - "node"
+
 deploy:
   provider: pages
   skip_cleanup: true
