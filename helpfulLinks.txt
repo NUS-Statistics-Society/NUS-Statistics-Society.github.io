@@ -1,0 +1,8 @@
+
+
+Darken img:
+https://stackoverflow.com/questions/15765550/darkening-an-image-with-css-in-any-shape
+
+
+Makes Img flexible:
+https://stackoverflow.com/questions/21103622/auto-resize-image-in-css-flexbox-layout-and-keeping-aspect-ratio
