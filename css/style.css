@@ -151,3 +151,7 @@ ul#horizontal-list li a {
   font-family: ComputerModernSerifThiccItalics;
   src: url(fonts/ComputerModernSerif/Serif/cmunbi.ttf);
 }
+@font-face {
+  font-family: ComputerModernSans;
+  src: url(fonts/ComputerModernSans/Sans/cmunss.ttf);
+}

@@ -1,5 +1,9 @@
 
 
+https://codetheweb.blog/2017/12/07/fullscreen-image-hero/
+https://www.w3schools.com/css/css3_buttons.asp
+https://stackoverflow.com/questions/38201279/how-to-set-css-hover-on-input/38201456
+
 Darken img:
 https://stackoverflow.com/questions/15765550/darkening-an-image-with-css-in-any-shape
 
