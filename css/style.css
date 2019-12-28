@@ -52,18 +52,14 @@ ul#horizontal-list li a {
     overflow: hidden;
     
 }
-
-
-
 /* The hero image */
-.hero {
+.hero-item {
   /* Position and center the image to scale nicely on all screens */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  
+  height: 500px;  
   
 }
-.hero img {
+.hero-item img {
     
     filter: brightness(50%);
     max-width: 100%;
@@ -71,12 +67,15 @@ ul#horizontal-list li a {
 
 /* Place text in the middle of the image */
 .hero-text {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: ComputerModernSerif;
   text-align: center;
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -80%);
   color: white;
 }
 
@@ -163,20 +162,3 @@ ul#horizontal-list li a {
   font-family: ComputerModernSans;
   src: url(fonts/ComputerModernSans/Sans/cmunss.ttf);
 }
-
-
-/*
-
-<div class="owl-carousel owl-theme">
-                    <div class="item">
-                        <section class="hero">
-                        <img src="images/about-us-cover.jpg">
-                        <div class="hero-text">
-                            <h1>Join Our Data Science Competition!</h1>
-                            <input type="submit" onclick="location.href='https://www.facebook.com/nus.statistics.soc/';" value="Sign Up"/>
-                        </div>
-                    </section>
-                </div>
-
-            </div>  
-*/
