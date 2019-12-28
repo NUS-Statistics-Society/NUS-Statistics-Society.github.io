@@ -52,6 +52,53 @@ ul#horizontal-list li a {
     overflow: hidden;
     
 }
+
+.owl-theme .owl-controls .owl-buttons div {
+  background: transparent;
+  color: #869791;
+  font-size: 40px;
+  line-height: 300px;
+  margin: 0;
+  padding: 0 60px;
+  position: absolute;
+  top: 0;
+}
+.owl-theme .owl-controls .owl-buttons .owl-prev {
+  left: 0;
+  padding-left: 20px;
+}
+.owl-theme .owl-controls .owl-buttons .owl-next {
+  right: 0;
+  padding-right: 20px;
+}
+
+.owl-prev {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 40%;
+    margin-left: -20px;
+    display: block !important;
+    border:0px solid black;
+    background-color: black;
+    opacity: 1;
+    font-size: 20px;
+    color:red;
+    
+}
+
+.owl-next {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 40%;
+    right: -20px;
+    display: block !important;
+    border:0px solid black;
+}
+.owl-prev i, .owl-next i {transform : scale(2,5); color: #ccc;}
+
+
 /* The hero image */
 .hero-item {
   /* Position and center the image to scale nicely on all screens */
