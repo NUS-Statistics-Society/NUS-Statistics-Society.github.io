@@ -10,3 +10,19 @@ https://stackoverflow.com/questions/15765550/darkening-an-image-with-css-in-any-
 
 Makes Img flexible:
 https://stackoverflow.com/questions/21103622/auto-resize-image-in-css-flexbox-layout-and-keeping-aspect-ratio
+
+
+
+Stupid fking owl carousel:
+https://stackoverflow.com/questions/31224192/owl-carousel-making-custom-navigation
+https://stackoverflow.com/questions/40442683/owl-carousel-2-nav-on-sides
+https://owlcarousel2.github.io/OwlCarousel2/demos/demos.html
+https://stackoverflow.com/questions/31605932/how-to-make-a-owl-carousel-with-arrows-instead-of-next-previous
+https://www.youtube.com/watch?v=fs26TgyMQfw
+https://github.com/OwlCarousel2/OwlCarousel2/issues/1354
+
+
+
+
+
+
