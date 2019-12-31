@@ -13,8 +13,11 @@
 .image-container {
   margin: 2rem auto;
   max-width: 1200px;
-  padding: 0 3rem;
-    
+  padding: 0 1rem;
+}
+
+.event-item {
+    margin: 1rem;
 }
 
 .event-item img {
@@ -23,9 +26,8 @@
 
 .responsive-image {
   max-width: 100%;
-  height: 300px;
-  width: 300px
 }
+
 
 .responsive-image:hover {
     opacity: 0.5;
@@ -38,13 +40,13 @@
     flex-direction: row;
   }
   .event-item {
-    width: 50%;
+    width: calc(50% - 2rem);
   }
 }
 
 @media screen and (min-width: 1000px) {
   .event-item {
-    width: calc(100% / 4);
+    width: calc(33.3333% - 2rem);
   }
 }
 
