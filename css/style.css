@@ -153,10 +153,57 @@ ul#horizontal-list li a {
   background-color: red;
 }
 
+/* partners section */
+
+.partner-header {
+    text-align: center;
+    font-family: ComputerModernSans;
+    font-weight: 100;
+    font-size: 50px;
+    color:#cc8806;
+}
+
+.image-container {
+  margin: 2rem auto;
+  max-width: 1200px;
+  padding: 0 4rem;
+}
+
+
+.partner-item img {
+  display: block;
+}
+
+.responsive-image {
+  max-width: 100%;
+}
+
+
+.responsive-image:hover {
+    opacity: 0.5;
+}
+
+@media screen and (min-width: 600px) {
+  .partner-grid {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  .partner-item {
+    width: 50%;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .partner-item {
+    width: 33.3333%;
+  }
+}
+
 /*footer styles*/
 .footer {
   text-align: center;
-  margin-top: 20px; 
+  margin-top: 50px; 
 }
 
 .social-icons {
