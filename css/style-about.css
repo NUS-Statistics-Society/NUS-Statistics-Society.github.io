@@ -13,9 +13,39 @@
     font-size: 50px;
     color:#cc8806;
 }
+
 .about-intro {
     margin-left: 10%;
     margin-right: 10%;
     line-height: 150%;
     font-family: ComputerModernSerif
+}
+
+.committees-header {
+    margin-top: 20px;
+    text-align: center;
+    font-family: ComputerModernSans;
+    font-weight: 100;
+    font-size: 30px;
+    color:#cc8806;    
+}
+
+.committee {
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.comm-img {
+    float: left;
+    width: 300px;
+
+}
+
+.comm-descrip {
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 150%;
+    font-family: ComputerModernSerif;
+    font-size: 14px;
 }
